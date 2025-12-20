@@ -1,4 +1,4 @@
-{
+﻿{
   "characterBaseData": [
     {
       "id": "4LOM",
@@ -8286,9 +8286,6 @@
               ],
               "numberMatchesRequired": 3
             }
-          ],
-          "skipIfPresentCharacters": [
-            "MAZKANATA"
           ]
         }
       ]
