@@ -9112,7 +9112,13 @@
             }
           ]
         }
-      ]
+      ],
+      "ignoreRequirements": {
+        "rarity": true
+      },
+      "ignoreSynergyRequirements": {
+        "rarity": true
+      }
     },
     {
       "id": "THIRDSISTER",
